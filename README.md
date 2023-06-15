@@ -20,3 +20,5 @@
 
 
 Ιστοσελίδα :  https://openedtech.ellak.gr/robotics2023/robotakia-floating-wind-turbine/
+
+Βίντεο παρουσίασης του έργου: https://youtu.be/qQWRkiJStWI
